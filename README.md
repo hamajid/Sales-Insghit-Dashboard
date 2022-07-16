@@ -18,9 +18,9 @@ This GitHub repository contains data extracted from a sales database, and two da
 
 This data is extracted from a sales database, It has three main files (Order, Customer and Product). I changed the real products names to Product 00X and the real customers name to Customer 00X.
 
-- **Customer Excel File. **
-- **Orders Excel File. **
-- **Product Excel File. **
+- **Customer Excel File.**
+- **Orders Excel File.**
+- **Product Excel File.**
 
 <a name=PBI></a>
 
